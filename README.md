@@ -1,4 +1,4 @@
-# journal-app
+# logit
 
 To install dependencies:
 
